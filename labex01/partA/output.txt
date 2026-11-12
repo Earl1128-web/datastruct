@@ -1,0 +1,6 @@
+count = 10
+sum   = 220
+min   = 3
+max   = 61
+range = 58
+mean  = 22.00
